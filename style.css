@@ -1,3 +1,20 @@
 #logo {
-    max-width: 10px;
+    max-width: 100px;
+    
+}
+
+#services {
+    text-align: center;
+}
+
+#function {
+    padding-top: 120px;
+}
+
+#scissors {
+    max-width: 610px;
+}
+
+#magnifying {
+    max-width: 655px;
 }
