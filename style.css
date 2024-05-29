@@ -18,3 +18,13 @@
 #magnifying {
     max-width: 655px;
 }
+
+#navbar {
+    background-color: white;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
