@@ -5,6 +5,7 @@
 
 #services {
     text-align: center;
+    margin: 70px 0px 70px 0px;
 }
 
 #function {
@@ -28,3 +29,14 @@
 .navbar {
     margin-bottom: 0px;
 }
+
+.carousel-inner {
+    transition: transform 3s ease, opacity .5s ease-out;
+    margin: 20px 0px 30px 0px;
+
+}
+
+#tiles {
+    margin: 15px 70px 15px 70px;
+}
+
